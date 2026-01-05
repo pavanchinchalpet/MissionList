@@ -1,4 +1,4 @@
-# 🚀 Todo App - Full Stack Application
+# 🚀 MissionList App - Full Stack Application
 
 A modern, full-stack Todo application built with React, Node.js, Express, and MongoDB. Features OTP-based authentication, beautiful email notifications, and a responsive Material-UI interface.
 
